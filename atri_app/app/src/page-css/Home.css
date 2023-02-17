@@ -99,6 +99,8 @@ flex-direction: column;
 justify-content: space-between;
 align-items: center;
 row-gap: 20px;
+padding-top: 30px;
+padding-bottom: 30px;
 }
 .p-Home.Flex16 {
 display: flex;
@@ -174,10 +176,63 @@ font-family: IBM Plex Sans;
 font-weight: 600;
 font-size: 17px;
 }
-.p-Home.Flex24 {
+.p-Home.Flex26 {
 display: flex;
-margin-top: 50px;
-margin-bottom: 50px;
+background-color: #ffb6c199;
+justify-content: space-between;
+align-items: center;
+width: ;
+margin-top: 20px;
+margin-bottom: 20px;
+font-family: IBM Plex Sans;
+padding-top: 70px;
+padding-bottom: 70px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.p-Home.Flex27 {
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+width: 500px;
+font-family: IBM Plex Sans;
+row-gap: 15px;
+}
+.p-Home.Flex28 {
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.p-Home.Flex29 {
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+row-gap: 10px;
+width: 200px;
+padding-left: 10px;
+margin-left: 0px;
+padding-top: 20px;
+padding-right: 50px;
+padding-bottom: 20px;
+background-color: #ffffff;
+border-radius: 30px;
+align-items: stretch;
+position: relative;
+top: 50px;
+right: 100px;
+}
+.p-Home.Flex30 {
+display: flex;
+justify-content: flex-start;
+column-gap: 10px;
+}
+.p-Home.Flex31 {
+display: flex;
+column-gap: 10px;
+}
+.p-Home.Flex32 {
+display: flex;
+column-gap: 10px;
 }
 .p-Home.Image2 {
 width: 32px;
@@ -378,6 +433,62 @@ padding-right: 10px;
 padding-bottom: 8px;
 border-radius: 20px;
 background-color: #ff8c00;
+}
+.p-Home.Image14 {
+;
+}
+.p-Home.TextBox35 {
+;
+}
+.p-Home.TextBox36 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 25px;
+}
+.p-Home.TextBox37 {
+margin-top: 9px;
+}
+.p-Home.TextBox38 {
+padding-top: 10px;
+padding-left: 20px;
+padding-bottom: 10px;
+padding-right: 20px;
+border-radius: 30px;
+border-width: 1px;
+border-style: solid;
+cursor: pointer;
+}
+.p-Home.TextBox39 {
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 30px;
+border-width: 1px;
+border-style: solid;
+color: #ffffff;
+background-color: #ff8c00;
+}
+.p-Home.TextBox40 {
+margin-top: 8px;
+}
+.p-Home.Image15 {
+;
+}
+.p-Home.TextBox41 {
+;
+}
+.p-Home.Image16 {
+;
+}
+.p-Home.TextBox42 {
+;
+}
+.p-Home.Image17 {
+;
+}
+.p-Home.TextBox43 {
+;
 }
 @media screen and (max-width: 991px) {
 	.p-Home.Flex3.bpt {

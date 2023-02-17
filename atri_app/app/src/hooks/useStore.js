@@ -112,13 +112,31 @@ const desktopModeProps = {
     "Flex25": {
       "callbacks": {}
     },
-    "Flex24": {
+    "Flex26": {
+      "callbacks": {}
+    },
+    "Flex27": {
+      "callbacks": {}
+    },
+    "Flex28": {
+      "callbacks": {}
+    },
+    "Flex29": {
+      "callbacks": {}
+    },
+    "Flex30": {
+      "callbacks": {}
+    },
+    "Flex31": {
+      "callbacks": {}
+    },
+    "Flex32": {
       "callbacks": {}
     },
     "Image2": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo_only.svg"
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/logo_only.svg"
       },
       "callbacks": {
         "onClick": [
@@ -131,7 +149,7 @@ const desktopModeProps = {
     "Image1": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo-restaurante-x-template.svg"
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/logo-restaurante-x-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -276,7 +294,7 @@ const desktopModeProps = {
     "Image3": {
       "custom": {
         "alt": "burger_png",
-        "src": "/app-assets/pexels-photo.webp"
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/pexels-photo.webp"
       },
       "callbacks": {
         "onClick": [
@@ -349,7 +367,7 @@ const desktopModeProps = {
     "Image5": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo-rappi-restaurante-x-template.svg"
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/logo-rappi-restaurante-x-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -362,7 +380,7 @@ const desktopModeProps = {
     "Image6": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/pexels-rajesh-tp-1633578.jpg"
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/pexels-rajesh-tp-1633578.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -375,7 +393,7 @@ const desktopModeProps = {
     "Image7": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo-postmates-restaurante-x-template.svg"
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/logo-postmates-restaurante-x-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -388,7 +406,7 @@ const desktopModeProps = {
     "Image8": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo-grubhub-restaurante-x-template.svg"
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/logo-grubhub-restaurante-x-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -413,7 +431,7 @@ const desktopModeProps = {
     "Image9": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/menu-breakfasts-restaurante-x-template.svg"
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/menu-breakfasts-restaurante-x-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -462,7 +480,7 @@ const desktopModeProps = {
     "Image10": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/menu-main-dishes-restaurante-x-template.svg"
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/menu-main-dishes-restaurante-x-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -511,7 +529,7 @@ const desktopModeProps = {
     "Image12": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/menu-drinks-restaurante-x-template.svg"
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/menu-drinks-restaurante-x-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -560,7 +578,7 @@ const desktopModeProps = {
     "Image13": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/menu-desserts-restaurante-x-template.svg"
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/menu-desserts-restaurante-x-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -621,6 +639,166 @@ const desktopModeProps = {
     "TextBox33": {
       "custom": {
         "text": "Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image14": {
+      "custom": {
+        "alt": "about-home-restuara nt",
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/about-home-restaurante-x-template-p-1080.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox35": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit enim bibendum sed et aliquet aliquet risus tempor semper odio egestas id pulvinar consectetur elit tortor non hac pellentesque lacus donec accumsan quisque ultricies adipiscing mauris tortor cras est eu accumsan mauris."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox36": {
+      "custom": {
+        "text": "About us"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox37": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum eget non vivamus volutpat odio cras vestibulum purus aliquam."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox38": {
+      "custom": {
+        "text": "About us"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox39": {
+      "custom": {
+        "text": "Join our team"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox40": {
+      "custom": {
+        "text": "Come and visit us"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image15": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/616da2c3a1718503bfe60f49_location-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox41": {
+      "custom": {
+        "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image16": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/616da2c36165d583fe91702b_phone-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox42": {
+      "custom": {
+        "text": "(414) 857 - 0107"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image17": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "C:/Program Files/Git/my-atri-app/app-assets/email-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox43": {
+      "custom": {
+        "text": "losangeles@restaurantex.com"
       },
       "callbacks": {
         "onClick": [
